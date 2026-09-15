@@ -1,0 +1,6 @@
+# Analysis environment
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyter
